@@ -16,7 +16,7 @@ namespace EventExample2
             customer.Order += waitor.Action;
             customer.Action();
             customer.PayTheBill();
-
+            //MyTest 20171017
         }
     }
 
